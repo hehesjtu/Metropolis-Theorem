@@ -1,7 +1,7 @@
 %% Metropolis theorem and its applications on single image detail enhancement
-%% Journal paper: Optik 2023
+%% Journal paper: Multimedia Tools and Applications
 %% First author: He Jiang
-%  Date: 2023-01-11
+%  Date: 2023-07-02
 %  All images using format "*png" 
 
 clear all;clc;close all;warning off;
